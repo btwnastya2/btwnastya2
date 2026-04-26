@@ -1,16 +1,26 @@
-## Hi there 👋
+## Привет, я Настя
 
-<!--
-**btwnastya2/btwnastya2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студентка 2-го курса прикладной математики и информатики в СПБГЭУ. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Меня интересует **комбинаторная оптимизация**, **создание «цифровых двойников»** и **анализ данных**. 
+Люблю решать сложные задачи, превращая их в элегантные алгоритмы и математические модели.
+
+### ⚙️ Мой стек  
+`Python` ·  `Numpy` · `pandas` 
+
+`Java` · `Wolfram Matematica` · `Git` · `SQL`
+
+`CPLEX` · `PuLP`
+
+### 🔬 Сейчас изучаю:
+C++, углубляю знания SQL и Python
+
+### 🎯 Моя цель: 
+Найти стажировку или позицию Junior, где смогу применять свои навыки для решения реальных бизнес-задач и развиваться как специалист.
+
+### 📫 Контакты:
+Электорнная почта: ovchinnikova.nastja@yandex.ru
+
+Telegram: @btwnst
+
