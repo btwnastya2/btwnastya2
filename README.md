@@ -7,7 +7,7 @@
 Люблю решать сложные задачи, превращая их в элегантные алгоритмы и математические модели.
 
 ### ⚙️ Мой стек  
-`Python` ·  `Numpy` · `pandas` 
+`Python` ·  `Numpy` · `pandas` · `Streamlit`
 
 `Java` · `Wolfram Matematica` · `Git` · `SQL`
 
