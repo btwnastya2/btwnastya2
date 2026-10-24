@@ -9,7 +9,7 @@
 ### ⚙️ Мой стек  
 `Python` ·  `Numpy` · `pandas` · `Streamlit`
 
-`Java` · `Wolfram Matematica` · `Git` · `SQL`
+`Java` · `Wolfram Mathematica` · `Git` · `SQL` · `Docker`
 
 `CPLEX` · `PuLP`
 
