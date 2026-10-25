@@ -11,7 +11,7 @@
 
 `Java` · `Wolfram Mathematica` · `Git` · `SQL` · `Docker`
 
-`CPLEX` · `PuLP`
+`CPLEX` · `PuLP` · `Pyomo`
 
 ### 🔬 Сейчас изучаю:
 C++, углубляю знания SQL и Python
